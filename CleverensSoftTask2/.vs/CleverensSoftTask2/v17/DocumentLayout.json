@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUddha\\Git\\Task\\CleverensSoftTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACFB4CC-9421-4A4C-8138-5CB29D51F21D}|CleverensSoftTask2\\CleverensSoftTask2.csproj|c:\\users\\buddha\\git\\task\\cleverenssofttask2\\cleverenssofttask2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACFB4CC-9421-4A4C-8138-5CB29D51F21D}|CleverensSoftTask2\\CleverensSoftTask2.csproj|solutionrelative:cleverenssofttask2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACFB4CC-9421-4A4C-8138-5CB29D51F21D}|CleverensSoftTask2\\CleverensSoftTask2.csproj|c:\\users\\buddha\\git\\task\\cleverenssofttask2\\cleverenssofttask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACFB4CC-9421-4A4C-8138-5CB29D51F21D}|CleverensSoftTask2\\CleverensSoftTask2.csproj|solutionrelative:cleverenssofttask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\BUddha\\Git\\Task\\CleverensSoftTask2\\CleverensSoftTask2\\Server.cs",
+              "RelativeDocumentMoniker": "CleverensSoftTask2\\Server.cs",
+              "ToolTip": "C:\\Users\\BUddha\\Git\\Task\\CleverensSoftTask2\\CleverensSoftTask2\\Server.cs",
+              "RelativeToolTip": "CleverensSoftTask2\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:45:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUddha\\Git\\Task\\CleverensSoftTask2\\CleverensSoftTask2\\Program.cs",
+              "RelativeDocumentMoniker": "CleverensSoftTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\BUddha\\Git\\Task\\CleverensSoftTask2\\CleverensSoftTask2\\Program.cs",
+              "RelativeToolTip": "CleverensSoftTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:43:36.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

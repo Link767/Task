@@ -1,0 +1,15 @@
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\bin\Debug\net8.0\CleverensSoftTask2.exe
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\bin\Debug\net8.0\CleverensSoftTask2.deps.json
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\bin\Debug\net8.0\CleverensSoftTask2.runtimeconfig.json
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\bin\Debug\net8.0\CleverensSoftTask2.dll
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\bin\Debug\net8.0\CleverensSoftTask2.pdb
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.AssemblyInfoInputs.cache
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.AssemblyInfo.cs
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.csproj.CoreCompileInputs.cache
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.sourcelink.json
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.dll
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\refint\CleverensSoftTask2.dll
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.pdb
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\CleverensSoftTask2.genruntimeconfig.cache
+C:\Users\BUddha\Git\Task\CleverensSoftTask2\CleverensSoftTask2\obj\Debug\net8.0\ref\CleverensSoftTask2.dll
