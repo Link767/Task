@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Task1CleverensSoft")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CleverensSoftTask3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1371cbf74563ea8571e2d184b6213d11698ec1c7")]
-[assembly: System.Reflection.AssemblyProductAttribute("Task1CleverensSoft")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Task1CleverensSoft")]
+[assembly: System.Reflection.AssemblyProductAttribute("CleverensSoftTask3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CleverensSoftTask3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

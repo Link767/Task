@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task1CleverensSoft/1.0.0": {
+        "runtime": {
+          "Task1CleverensSoft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task1CleverensSoft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
